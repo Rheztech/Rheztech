@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rheztech
+- 👋 Hi, I’m Abdulrazak Abdullahi
 - 👀 I’m interested in data anayst jobs
 - 🌱 I’m currently learning data analysis using R and Python
 - 💞️ I’m looking to collaborate on other experienced data analyst 
